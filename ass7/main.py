@@ -1,6 +1,3 @@
-#Tal Tikhonov 
-# 215275512 
-# ass 7
 # main.py
 import tkinter as tk
 from minesweeper import Minesweeper
