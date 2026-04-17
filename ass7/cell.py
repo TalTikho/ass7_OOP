@@ -1,6 +1,3 @@
-#Tal Tikhonov 
-# 215275512 
-# ass 7
 #cell.py - Respresents each cell
 class Cell:
 
