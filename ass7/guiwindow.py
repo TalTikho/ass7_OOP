@@ -1,6 +1,3 @@
-#Tal Tikhonov 
-# 215275512 
-# ass 7
 #window.py
 import tkinter as tk
 from tkinter import ttk, messagebox
