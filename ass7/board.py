@@ -1,6 +1,3 @@
-#Tal Tikhonov 
-# 215275512 
-# ass 7
 # board.py
 import random
 from cell import Cell
